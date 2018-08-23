@@ -1,0 +1,17 @@
+spring:
+ application:
+  name: productlist-ribbon
+  
+server:
+    port: 6666
+    
+eureka:
+ client:
+  serviceUrl:
+   defaultZone: http://localhost:8761/eureka/
+ preferIpAddress: true
+ instance:
+  instanceId: ${spring.application.name}:${random.value}
+  
+ 
+ 

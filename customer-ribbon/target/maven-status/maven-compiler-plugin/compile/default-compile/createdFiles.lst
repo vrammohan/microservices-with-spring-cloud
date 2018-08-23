@@ -1,0 +1,5 @@
+META-INF\MANIFEST.MF
+META-INF\maven\com.netflix.ribbon\customer-ribbon\pom.properties
+com\microservices\customer\loadbalancer\CustomerConsumerController.class
+com\microservices\customer\loadbalancer\CustomerApplication.class
+META-INF\maven\com.netflix.ribbon\customer-ribbon\pom.xml

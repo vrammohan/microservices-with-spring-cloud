@@ -1,2 +1,3 @@
 # spring-cloud-eureka-basic
-This is a basic example on how to create a eureka server and register a producer and consumer services with the eureka server.
+This is a series of code repos on microservices using spring boot,Netflix Eureka,spring cloud.
+To install project lombok, follow this link -> https://projectlombok.org/setup/eclipse

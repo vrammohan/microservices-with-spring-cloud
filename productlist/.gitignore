@@ -1,0 +1,12 @@
+#Ignore files of below format while cloning.
+# Compiled class file
+*.class
+
+# Package Files #
+*.jar
+
+#.project
+.project
+
+#.classpath
+.classpath
